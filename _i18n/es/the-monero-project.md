@@ -11,7 +11,7 @@
                 </div>
 <div class="row start-xs monero-project" markdown="1">
 
-The Kovri project uses end-to-end encryption so that neither the sender nor receiver of a Monero transaction need to reveal their IP address to the other side or to third-party observers (the blockchain). This is done using the same technology that powers the dark net, i2p (Invisible Internet Protocol). The project is currently in heavy, active development and is not yet integrated with Monero.
+El proyecto Kovri utiliza cifrado extremo a extremo para que ni el emisor ni el receptor de una transacción de Monero necesite revelar su dirección IP al otro lado o a observadores de terceros (la Cadena de bloques). Esta hecho usando la mismo tecnología que impulsa la red oscura, Proyecto de Internet invisible. El proyecto está en desarollo activo y todavía no está integrado con Monero.
 
 </div>
     <div class="row center-xs">
